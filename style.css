@@ -7,7 +7,8 @@
 body{
     width: 100%;
     height: 100vh;
-    padding-top: 20px;
+    
+    padding-top: 10px;
     padding-left: 100px;
     padding-right: 100px;
 }
@@ -27,13 +28,13 @@ body{
     width: 600px;
     display: flex;
     justify-content: flex-end;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .menu{
     display: flex;
     justify-content: center;
-    margin-top: -70px;
+    margin-top: -150px;
 }
 
 button{
